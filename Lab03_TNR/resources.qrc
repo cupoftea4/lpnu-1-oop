@@ -10,5 +10,7 @@
         <file>images/arrow-undo-icon.png</file>
         <file>images/notepad-icon.png</file>
         <file>images/New-file-icon.png</file>
+        <file>images/Open-file-icon.png</file>
+        <file>images/Users-Exit-icon.png</file>
     </qresource>
 </RCC>

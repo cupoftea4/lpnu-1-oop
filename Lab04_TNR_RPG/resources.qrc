@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/damage_sound.wav</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>sprites/bgLvl1.jpg</file>
+        <file>sprites/Chmonia_token.png</file>
+        <file>sprites/Kozak_token.png</file>
+        <file>sprites/loadingScreen.jpg</file>
+        <file>sprites/Orc2_token.png</file>
+        <file>sprites/Orc3_token.png</file>
+        <file>sprites/Potion.png</file>
+    </qresource>
+</RCC>
